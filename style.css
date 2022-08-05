@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ftr{
+    background-color:rgb(47, 46, 46);
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
